@@ -28,7 +28,7 @@
 
 ##
 
-![Snake animation](https://github.com/samucatnb/samucatnb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samucatnb/samucatnb/blob/main/github-contribution-grid-snake.svg)
 
 
 <!--
